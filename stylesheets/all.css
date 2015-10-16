@@ -1924,8 +1924,8 @@ pre {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px; }
+  padding-left: 5px;
+  padding-right: 5px; }
   /* line 14, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
   .container:before, .container:after {
     content: " ";
@@ -1936,22 +1936,22 @@ pre {
   @media (min-width: 768px) {
     /* line 10, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_grid.scss */
     .container {
-      width: 750px; } }
+      width: 730px; } }
   @media (min-width: 992px) {
     /* line 10, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_grid.scss */
     .container {
-      width: 970px; } }
+      width: 950px; } }
   @media (min-width: 1200px) {
     /* line 10, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_grid.scss */
     .container {
-      width: 1170px; } }
+      width: 1150px; } }
 
 /* line 30, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_grid.scss */
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px; }
+  padding-left: 5px;
+  padding-right: 5px; }
   /* line 14, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
   .container-fluid:before, .container-fluid:after {
     content: " ";
@@ -1962,8 +1962,8 @@ pre {
 
 /* line 39, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_grid.scss */
 .row {
-  margin-left: -15px;
-  margin-right: -15px; }
+  margin-left: -5px;
+  margin-right: -5px; }
   /* line 14, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
   .row:before, .row:after {
     content: " ";
@@ -1976,8 +1976,8 @@ pre {
 .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
   position: relative;
   min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px; }
+  padding-left: 5px;
+  padding-right: 5px; }
 
 /* line 27, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_grid-framework.scss */
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
@@ -3580,8 +3580,8 @@ select[multiple].input-lg,
   min-height: 29px; }
 /* line 538, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_forms.scss */
 .form-horizontal .form-group {
-  margin-left: -15px;
-  margin-right: -15px; }
+  margin-left: -5px;
+  margin-right: -5px; }
   /* line 14, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
   .form-horizontal .form-group:before, .form-horizontal .form-group:after {
     content: " ";
@@ -3597,7 +3597,7 @@ select[multiple].input-lg,
     padding-top: 7px; } }
 /* line 556, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_forms.scss */
 .form-horizontal .has-feedback .form-control-feedback {
-  right: 15px; }
+  right: 5px; }
 @media (min-width: 768px) {
   /* line 566, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_forms.scss */
   .form-horizontal .form-group-lg .control-label {
@@ -4524,8 +4524,8 @@ tbody.collapse.in {
 /* line 50, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-collapse {
   overflow-x: visible;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 5px;
+  padding-left: 5px;
   border-top: 1px solid transparent;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
   -webkit-overflow-scrolling: touch; }
@@ -4574,8 +4574,8 @@ tbody.collapse.in {
 .container > .navbar-collapse,
 .container-fluid > .navbar-header,
 .container-fluid > .navbar-collapse {
-  margin-right: -15px;
-  margin-left: -15px; }
+  margin-right: -5px;
+  margin-left: -5px; }
   @media (min-width: 768px) {
     /* line 108, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
     .container > .navbar-header,
@@ -4621,7 +4621,7 @@ tbody.collapse.in {
 /* line 163, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-brand {
   float: left;
-  padding: 14px 15px;
+  padding: 14px 5px;
   font-size: 20px;
   line-height: 22px;
   height: 50px; }
@@ -4634,13 +4634,13 @@ tbody.collapse.in {
   @media (min-width: 768px) {
     /* line 180, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
-      margin-left: -15px; } }
+      margin-left: -5px; } }
 
 /* line 193, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-toggle {
   position: relative;
   float: right;
-  margin-right: 15px;
+  margin-right: 5px;
   padding: 9px 10px;
   margin-top: 8px;
   margin-bottom: 8px;
@@ -4667,7 +4667,7 @@ tbody.collapse.in {
 
 /* line 232, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-nav {
-  margin: 7px -15px; }
+  margin: 7px -5px; }
   /* line 235, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-nav > li > a {
     padding-top: 10px;
@@ -4708,9 +4708,9 @@ tbody.collapse.in {
 
 /* line 286, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-form {
-  margin-left: -15px;
-  margin-right: -15px;
-  padding: 10px 15px;
+  margin-left: -5px;
+  margin-right: -5px;
+  padding: 10px 5px;
   border-top: 1px solid transparent;
   border-bottom: 1px solid transparent;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
@@ -4818,8 +4818,8 @@ tbody.collapse.in {
     /* line 359, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-text {
       float: left;
-      margin-left: 15px;
-      margin-right: 15px; } }
+      margin-left: 5px;
+      margin-right: 5px; } }
 
 @media (min-width: 768px) {
   /* line 379, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
@@ -4829,7 +4829,7 @@ tbody.collapse.in {
   /* line 382, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-right {
     float: right !important;
-    margin-right: -15px; }
+    margin-right: -5px; }
     /* line 386, /Users/ehabelia/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-right ~ .navbar-right {
       margin-right: 0; } }
@@ -9306,6 +9306,71 @@ button.close {
   .icon-badge-bordered, .user-badge-bordered {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
     border: white 1px solid; }
+
+/* line 1, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_banner.scss */
+.banner {
+  position: relative;
+  z-index: 0;
+  background-size: cover;
+  color: white;
+  /*text-align: center;*/
+  padding: 100px;
+  /*font-weight: bold;*/ }
+
+/* line 11, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_banner.scss */
+.banner-filter {
+  position: absolute;
+  z-index: 1;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.4;
+  /* Chrome 10+, Saf5.1+ */
+  /* FF3.6+ */
+  /* IE10 */
+  /* Opera 11.10+ */
+  background: linear-gradient(90deg, #134E5E 10%, #71B280 90%);
+  /* W3C */ }
+
+/* line 26, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_banner.scss */
+.banner-content {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-align: center;
+  font-weight: bold; }
+
+/* line 34, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_banner.scss */
+.banner-content h3 {
+  font-size: 32px; }
+
+/* line 38, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_banner.scss */
+.banner-content h4 {
+  font-size: 20px; }
+
+/* line 42, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_banner.scss */
+.banner-content a {
+  font-size: 20px; }
+
+/* line 1, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_cards.scss */
+.img-size {
+  width: 30px; }
+
+/* line 5, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_cards.scss */
+.img-size-special {
+  width: 20px; }
+
+/* line 9, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_cards.scss */
+.txt-justify {
+  text-align: center; }
+
+/* line 13, /Users/ehabelia/code/EhabElia/My-frontend-advanced/source/stylesheets/components/_cards.scss */
+.card-white {
+  margin: 10px;
+  padding: 20px 20px;
+  border-radius: 3px;
+  min-height: 330px; }
 
 /*
 ==============================================

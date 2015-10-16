@@ -1,0 +1,33 @@
+---
+title: L'équipe
+---
+
+<div class='text-center'>
+  <h1>L'équipe</h1>
+  <ul class='list-inline'>
+    <li>
+      <img src="http://placehold.it/100x100" alt="" class='img-circle'>
+    </li>
+    <li>
+      <img src="http://placehold.it/100x100" alt="" class='img-circle'>
+    </li>
+    <li>
+      <img src="http://placehold.it/100x100" alt="" class='img-circle'>
+    </li>
+    <li>
+      <img src="http://placehold.it/100x100" alt="" class='img-circle'>
+    </li>
+  </ul>
+
+  <% names = %w(john paul ringo georges) %>
+  <ul class='list-inline'>
+    <% names.each do |name| %>
+    <li><%= name%></li>
+    <% end %>
+  </ul>
+  <!-- cela pourait être une variable comme ceci <% number = 4 %> ensuite avec l'égale (=) en injecte le résultat sur l'écran
+   <h2><%= number %> membres de l'équipe </h2>-->
+  <!-- <h2><%= 1 + 3%> membres de l'équipe </h2>-->
+
+
+</div>

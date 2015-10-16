@@ -16,7 +16,13 @@
       <a href="" class="navbar-wagon-button btn btn-default">Post stuff</a>
     </div>
 
-    <a href="" class="navbar-wagon-item navbar-wagon-link">Contact</a>
+    <!-- <%= link_to "Team", "contact.html", class: "navbar-wagon-item navbar-wagon-link" %> -->
+    <!-- OU <%= link_to "<i class='fa fa-users'></i> Team", "contact.html", class: "navbar-wagon-item navbar-wagon-link" %> -->
+
+    <% link_to "contact.html", class: "navbar-wagon-item navbar-wagon-link" do %>
+      <i class='fa fa-users'></i> Team
+    <%end%>
+
 
     <a href="" class="navbar-wagon-item navbar-wagon-link">
       <div class="icon-badge-container">
